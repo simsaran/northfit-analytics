@@ -17,7 +17,7 @@ A business analysis and operational analytics project for a fictional Canadian f
 
 ## Live app
 
-[Launch the NorthFit Analytics Dashboard](your-streamlit-link-here)
+[Launch the NorthFit Analytics Dashboard](https://northfit-analytics-2026.streamlit.app/)
 
 ---
 
