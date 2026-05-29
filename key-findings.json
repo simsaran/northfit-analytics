@@ -1,0 +1,14 @@
+{
+  "total_members": 11500,
+  "total_locations": 5,
+  "overcrowded_hours_pct": 7.4,
+  "peak_hour_overcrowded_pct": 46.7,
+  "worst_location": "Toronto Downtown",
+  "worst_hour": "18:00",
+  "avg_wait_at_peak": 7.4,
+  "total_annual_revenue_at_risk": 1101792.0,
+  "retention_10pct_value": 552000.0,
+  "ghost_member_count": 1610,
+  "peak_warrior_nps": 42,
+  "offpeak_regular_nps": 71
+}

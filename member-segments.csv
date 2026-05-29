@@ -1,0 +1,5 @@
+Segment,Member Count,% of Total Members,Avg Monthly Visits,Annual Fee CAD,Total Annual Revenue CAD,Churn Risk,Estimated Churn Rate %,Annual Revenue at Risk CAD,NPS Score
+Peak Warrior,4370,38,14,480,2097600,Medium,18.0,377568.0,42
+Off-Peak Regular,3220,28,16,480,1545600,Low,8.0,123648.0,71
+Weekend Warrior,2300,20,8,480,1104000,Medium,18.0,198720.0,58
+Ghost Member,1610,14,1,480,772800,High,52.0,401856.0,18

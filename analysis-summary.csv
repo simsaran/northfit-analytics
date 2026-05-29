@@ -1,0 +1,10 @@
+Metric,Value,Notes
+Total members across 5 locations,"11,500",GTA locations combined
+Peak hour overcrowding rate,46.7%,Hours where utilization exceeds 85% capacity
+Average wait time at peak,7.4 minutes,Estimated equipment wait when overcrowded
+Worst location,Toronto Downtown,Highest sustained peak utilization in the chain
+Busiest hour,18:00,6pm consistently highest across all locations
+Ghost members,1610,Paying monthly but not visited in 60 or more days
+Total annual revenue at risk,"$1,101,792",Across all at-risk member segments
+Value of 10% retention improvement,"$552,000",Annual revenue protected
+Peak Warrior NPS,42,vs 71 for Off-Peak Regular members

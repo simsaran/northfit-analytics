@@ -1,0 +1,96 @@
+Location ID,Location Name,Hour,Time Slot,Avg Member Visits,Location Capacity,Avg Utilization %,Overcrowded % of Days,Avg Wait Minutes When Overcrowded,Is Peak Hour
+LOC-001,Mississauga City Centre,5,05:00,12.4,180,6.9,0.0,0.0,No
+LOC-001,Mississauga City Centre,6,06:00,35.2,180,19.6,0.0,0.0,No
+LOC-001,Mississauga City Centre,7,07:00,77.6,180,43.1,0.0,0.0,No
+LOC-001,Mississauga City Centre,8,08:00,61.1,180,33.9,0.0,0.0,No
+LOC-001,Mississauga City Centre,9,09:00,45.0,180,25.0,0.0,0.0,No
+LOC-001,Mississauga City Centre,10,10:00,35.5,180,19.7,0.0,0.0,No
+LOC-001,Mississauga City Centre,11,11:00,32.1,180,17.8,0.0,0.0,No
+LOC-001,Mississauga City Centre,12,12:00,56.0,180,31.1,0.0,0.0,No
+LOC-001,Mississauga City Centre,13,13:00,44.9,180,24.9,0.0,0.0,No
+LOC-001,Mississauga City Centre,14,14:00,29.2,180,16.2,0.0,0.0,No
+LOC-001,Mississauga City Centre,15,15:00,35.5,180,19.7,0.0,0.0,No
+LOC-001,Mississauga City Centre,16,16:00,68.0,180,37.8,0.0,0.0,No
+LOC-001,Mississauga City Centre,17,17:00,126.7,180,70.4,26.0,3.9,Yes
+LOC-001,Mississauga City Centre,18,18:00,157.7,180,87.6,62.8,9.8,Yes
+LOC-001,Mississauga City Centre,19,19:00,143.9,180,79.9,49.2,7.2,Yes
+LOC-001,Mississauga City Centre,20,20:00,93.7,180,52.1,0.0,0.0,No
+LOC-001,Mississauga City Centre,21,21:00,52.2,180,29.0,0.0,0.0,No
+LOC-001,Mississauga City Centre,22,22:00,22.5,180,12.5,0.0,0.0,No
+LOC-001,Mississauga City Centre,23,23:00,9.2,180,5.1,0.0,0.0,No
+LOC-002,Toronto Downtown,5,05:00,15.5,220,7.0,0.0,0.0,No
+LOC-002,Toronto Downtown,6,06:00,43.1,220,19.6,0.0,0.0,No
+LOC-002,Toronto Downtown,7,07:00,95.0,220,43.2,0.0,0.0,No
+LOC-002,Toronto Downtown,8,08:00,75.5,220,34.3,0.0,0.0,No
+LOC-002,Toronto Downtown,9,09:00,55.5,220,25.2,0.0,0.0,No
+LOC-002,Toronto Downtown,10,10:00,43.3,220,19.7,0.0,0.0,No
+LOC-002,Toronto Downtown,11,11:00,39.6,220,18.0,0.0,0.0,No
+LOC-002,Toronto Downtown,12,12:00,70.6,220,32.1,0.0,0.0,No
+LOC-002,Toronto Downtown,13,13:00,55.6,220,25.3,0.0,0.0,No
+LOC-002,Toronto Downtown,14,14:00,35.8,220,16.3,0.0,0.0,No
+LOC-002,Toronto Downtown,15,15:00,43.3,220,19.7,0.0,0.0,No
+LOC-002,Toronto Downtown,16,16:00,83.0,220,37.7,0.0,0.0,No
+LOC-002,Toronto Downtown,17,17:00,155.2,220,70.5,29.0,3.9,Yes
+LOC-002,Toronto Downtown,18,18:00,192.5,220,87.5,61.5,10.0,Yes
+LOC-002,Toronto Downtown,19,19:00,174.4,220,79.3,48.4,6.6,Yes
+LOC-002,Toronto Downtown,20,20:00,114.6,220,52.1,0.0,0.0,No
+LOC-002,Toronto Downtown,21,21:00,63.8,220,29.0,0.0,0.0,No
+LOC-002,Toronto Downtown,22,22:00,27.4,220,12.5,0.0,0.0,No
+LOC-002,Toronto Downtown,23,23:00,11.6,220,5.3,0.0,0.0,No
+LOC-003,Scarborough,5,05:00,10.4,150,6.9,0.0,0.0,No
+LOC-003,Scarborough,6,06:00,29.5,150,19.7,0.0,0.0,No
+LOC-003,Scarborough,7,07:00,64.4,150,42.9,0.0,0.0,No
+LOC-003,Scarborough,8,08:00,51.5,150,34.3,0.0,0.0,No
+LOC-003,Scarborough,9,09:00,38.3,150,25.5,0.0,0.0,No
+LOC-003,Scarborough,10,10:00,29.7,150,19.8,0.0,0.0,No
+LOC-003,Scarborough,11,11:00,26.8,150,17.9,0.0,0.0,No
+LOC-003,Scarborough,12,12:00,47.2,150,31.5,0.0,0.0,No
+LOC-003,Scarborough,13,13:00,37.6,150,25.1,0.0,0.0,No
+LOC-003,Scarborough,14,14:00,23.9,150,15.9,0.0,0.0,No
+LOC-003,Scarborough,15,15:00,29.4,150,19.6,0.0,0.0,No
+LOC-003,Scarborough,16,16:00,57.1,150,38.1,0.0,0.0,No
+LOC-003,Scarborough,17,17:00,106.1,150,70.7,28.1,3.9,Yes
+LOC-003,Scarborough,18,18:00,129.0,150,86.0,58.2,9.7,Yes
+LOC-003,Scarborough,19,19:00,118.1,150,78.7,49.2,6.2,Yes
+LOC-003,Scarborough,20,20:00,78.7,150,52.5,0.3,2.0,No
+LOC-003,Scarborough,21,21:00,42.8,150,28.5,0.0,0.0,No
+LOC-003,Scarborough,22,22:00,18.6,150,12.4,0.0,0.0,No
+LOC-003,Scarborough,23,23:00,7.7,150,5.1,0.0,0.0,No
+LOC-004,Brampton North,5,05:00,11.2,160,7.0,0.0,0.0,No
+LOC-004,Brampton North,6,06:00,31.7,160,19.8,0.0,0.0,No
+LOC-004,Brampton North,7,07:00,69.3,160,43.3,0.0,0.0,No
+LOC-004,Brampton North,8,08:00,55.0,160,34.4,0.0,0.0,No
+LOC-004,Brampton North,9,09:00,40.0,160,25.0,0.0,0.0,No
+LOC-004,Brampton North,10,10:00,31.6,160,19.8,0.0,0.0,No
+LOC-004,Brampton North,11,11:00,28.0,160,17.5,0.0,0.0,No
+LOC-004,Brampton North,12,12:00,50.7,160,31.7,0.0,0.0,No
+LOC-004,Brampton North,13,13:00,40.3,160,25.2,0.0,0.0,No
+LOC-004,Brampton North,14,14:00,25.9,160,16.2,0.0,0.0,No
+LOC-004,Brampton North,15,15:00,31.3,160,19.6,0.0,0.0,No
+LOC-004,Brampton North,16,16:00,60.5,160,37.8,0.0,0.0,No
+LOC-004,Brampton North,17,17:00,113.7,160,71.1,30.6,4.0,Yes
+LOC-004,Brampton North,18,18:00,138.6,160,86.6,59.8,9.8,Yes
+LOC-004,Brampton North,19,19:00,128.3,160,80.2,53.3,6.6,Yes
+LOC-004,Brampton North,20,20:00,83.1,160,51.9,0.0,0.0,No
+LOC-004,Brampton North,21,21:00,45.8,160,28.6,0.0,0.0,No
+LOC-004,Brampton North,22,22:00,19.9,160,12.4,0.0,0.0,No
+LOC-004,Brampton North,23,23:00,8.3,160,5.2,0.0,0.0,No
+LOC-005,Etobicoke,5,05:00,11.9,170,7.0,0.0,0.0,No
+LOC-005,Etobicoke,6,06:00,33.5,170,19.7,0.0,0.0,No
+LOC-005,Etobicoke,7,07:00,73.3,170,43.1,0.0,0.0,No
+LOC-005,Etobicoke,8,08:00,57.6,170,33.9,0.0,0.0,No
+LOC-005,Etobicoke,9,09:00,43.7,170,25.7,0.0,0.0,No
+LOC-005,Etobicoke,10,10:00,33.3,170,19.6,0.0,0.0,No
+LOC-005,Etobicoke,11,11:00,30.2,170,17.8,0.0,0.0,No
+LOC-005,Etobicoke,12,12:00,53.5,170,31.5,0.0,0.0,No
+LOC-005,Etobicoke,13,13:00,42.7,170,25.1,0.0,0.0,No
+LOC-005,Etobicoke,14,14:00,27.2,170,16.0,0.0,0.0,No
+LOC-005,Etobicoke,15,15:00,33.2,170,19.5,0.0,0.0,No
+LOC-005,Etobicoke,16,16:00,64.5,170,37.9,0.0,0.0,No
+LOC-005,Etobicoke,17,17:00,121.5,170,71.5,31.7,4.2,Yes
+LOC-005,Etobicoke,18,18:00,147.0,170,86.5,61.2,9.4,Yes
+LOC-005,Etobicoke,19,19:00,134.6,170,79.2,52.2,6.4,Yes
+LOC-005,Etobicoke,20,20:00,89.6,170,52.7,0.3,2.0,No
+LOC-005,Etobicoke,21,21:00,48.9,170,28.8,0.0,0.0,No
+LOC-005,Etobicoke,22,22:00,21.1,170,12.4,0.0,0.0,No
+LOC-005,Etobicoke,23,23:00,8.7,170,5.1,0.0,0.0,No
